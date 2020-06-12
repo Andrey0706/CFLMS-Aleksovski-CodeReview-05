@@ -1,0 +1,37 @@
+var movies= `[{
+	"img" : "img/joker.jpg",
+	"title" : "Joker (2019)",
+	"genre" : "Crime, Drama, Thriller",
+	"description" : "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society."
+},
+{
+	"img" : "img/forrestGump.jpg",
+	"title" : "Forrest Gump",
+	"genre" : " Drama, Romance",
+	"description" : "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and other historical events unfold through the perspective of an one man."
+},
+{
+	"img" : "img/pulpFiction.jpg",
+	"title" : "Pulp Fiction",
+	"genre" : " Crime, Drama",
+	"description" : "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+},
+{
+	"img" : "img/django.jpg",
+	"title" : "Django Unchained",
+	"genre" : "Drama, Western",
+	"description" : "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner."
+},
+{
+	"img" : "img/godfather.jpg",
+	"title" : "The Godfather",
+	"genre" : "Crime, Drama",
+	"description" : "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+},
+{
+	"img" : "img/basterds.jpg",
+	"title" : "Inglourious Basterds",
+	"genre" : "Adventure, Drama, War",
+	"description" : "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers."
+}]
+`
